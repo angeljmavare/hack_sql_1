@@ -1,2 +1,2 @@
 # hack_sql_1
-curso SocialOpLesk
+Curso SocialOpLesk
